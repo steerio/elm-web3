@@ -1,6 +1,6 @@
 {
   "name": "@steerio/elm-web3",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An elm wrapper for Web3.js",
   "scripts": {
     "testnet": "geth --datadir 'testchain' --networkid 23 --ws --wsport 8545 --wsaddr 0.0.0.0 --wsorigins '*' console",
